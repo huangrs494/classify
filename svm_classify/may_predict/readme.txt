@@ -1,0 +1,3 @@
+chouqu_may：抽取某个字段中含有某个词的内容。转成txt
+quchong_may：去掉重复的信息
+may_predict：利用已有的模型，对抽取的内容进行预测
